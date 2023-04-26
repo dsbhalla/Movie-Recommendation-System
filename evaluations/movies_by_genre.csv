@@ -1,0 +1,798 @@
+movieId,title,genres,rating,genre
+151769,Three from Prostokvashino (1978),Animation,5.0,Animation
+170597,A Plasticine Crow (1981),Animation,5.0,Animation
+146662,Dragons: Gift of the Night Fury (2011),Adventure|Animation|Comedy,5.0,Animation
+126088,A Flintstones Christmas Carol (1994),Animation|Children|Comedy,5.0,Animation
+146684,Cosmic Scrat-tastrophe (2015),Animation|Children|Comedy,5.0,Animation
+4454,More (1998),Animation|Drama|Sci-Fi|IMAX,5.0,Animation
+156025,Ice Age: The Great Egg-Scapade (2016),Adventure|Animation|Children|Comedy,5.0,Animation
+157775,Tenchi Muyô! In Love (1996),Animation|Comedy,5.0,Animation
+124404,"Snowflake, the White Gorilla (2011)",Adventure|Animation|Children|Comedy,5.0,Animation
+159811,The Bremen Town Musicians (1969),Animation|Drama|Fantasy,5.0,Animation
+96608,Runaway Brain (1995) ,Animation|Comedy|Sci-Fi,5.0,Animation
+163072,Winnie Pooh (1969),Animation|Children,5.0,Animation
+163112,Winnie the Pooh Goes Visiting (1971),Animation,5.0,Animation
+121781,Stuart Little 3: Call of the Wild (2005),Animation|Children|Comedy|Fantasy,5.0,Animation
+163386,Winnie the Pooh and the Day of Concern (1972),Animation,5.0,Animation
+163925,"Wings, Legs and Tails (1986)",Animation|Comedy,5.0,Animation
+165959,Alesha Popovich and Tugarin the Dragon (2004),Animation|Comedy|Drama,5.0,Animation
+72692,Mickey's Once Upon a Christmas (1999),Animation|Comedy|Fantasy,5.0,Animation
+166183,Junior and Karlson (1968),Adventure|Animation|Children,5.0,Animation
+95149,Superman/Batman: Public Enemies (2009),Action|Animation|Fantasy,5.0,Animation
+movieId,title,genres,rating,genre
+147326,The Adventures of Sherlock Holmes and Doctor Watson: King of Blackmailers (1980),Crime|Mystery,5.0,Mystery
+142444,The Editor (2015),Comedy|Horror|Mystery,5.0,Mystery
+112512,Colourful (Karafuru) (2010),Animation|Drama|Fantasy|Mystery,5.0,Mystery
+147300,Adventures Of Sherlock Holmes And Dr. Watson: The Twentieth Century Approaches (1986),Crime|Mystery,5.0,Mystery
+118894,Scooby-Doo! Abracadabra-Doo (2010),Animation|Children|Mystery,5.0,Mystery
+76091,Mother (Madeo) (2009),Crime|Drama|Mystery|Thriller,5.0,Mystery
+120138,PK (2014),Comedy|Drama|Fantasy|Mystery|Romance,5.0,Mystery
+79897,Get Low (2009),Comedy|Drama|Mystery,5.0,Mystery
+5746,Galaxy of Terror (Quest) (1981),Action|Horror|Mystery|Sci-Fi,5.0,Mystery
+96832,Holy Motors (2012),Drama|Fantasy|Musical|Mystery|Sci-Fi,5.0,Mystery
+6021,"American Friend, The (Amerikanische Freund, Der) (1977)",Crime|Drama|Mystery|Thriller,5.0,Mystery
+27751,'Salem's Lot (2004),Drama|Horror|Mystery|Thriller,5.0,Mystery
+85295,Scooby-Doo! Curse of the Lake Monster (2010),Adventure|Children|Comedy|Mystery,5.0,Mystery
+147286,The Adventures of Sherlock Holmes and Doctor Watson: The Treasures of Agra (1983),Crime|Mystery,5.0,Mystery
+42556,7 Faces of Dr. Lao (1964),Fantasy|Mystery|Western,5.0,Mystery
+30745,Gozu (Gokudô kyôfu dai-gekijô: Gozu) (2003),Comedy|Crime|Drama|Horror|Mystery,4.75,Mystery
+174053,Black Mirror: White Christmas (2014),Drama|Horror|Mystery|Sci-Fi|Thriller,4.75,Mystery
+74727,Gentlemen of Fortune (Dzhentlmeny udachi) (1972),Comedy|Crime|Drama|Mystery,4.75,Mystery
+31364,Memories of Murder (Salinui chueok) (2003),Crime|Drama|Mystery|Thriller,4.7,Mystery
+121469,Killer Movie (2008),Comedy|Horror|Mystery|Thriller,4.5,Mystery
+movieId,title,genres,rating,genre
+25906,Mr. Skeffington (1944),Drama|Romance,5.0,Romance
+113829,"One I Love, The (2014)",Comedy|Drama|Romance,5.0,Romance
+114265,Laggies (2014),Comedy|Romance,5.0,Romance
+124851,Delirium (2014),Adventure|Romance|Sci-Fi,5.0,Romance
+67618,Strictly Sexual (2008),Comedy|Drama|Romance,5.0,Romance
+26147,"Thousand Clowns, A (1965)",Comedy|Drama|Romance,5.0,Romance
+26928,"Summer's Tale, A (Conte d'été) (1996)",Comedy|Drama|Romance,5.0,Romance
+8911,Raise Your Voice (2004),Romance,5.0,Romance
+6192,Open Hearts (Elsker dig for evigt) (2002),Romance,5.0,Romance
+3531,All the Vermeers in New York (1990),Comedy|Drama|Romance,5.0,Romance
+149566,Unicorn City (2012),Comedy|Romance,5.0,Romance
+3567,Bossa Nova (2000),Comedy|Drama|Romance,5.0,Romance
+6201,Lady Jane (1986),Drama|Romance,5.0,Romance
+149508,Spellbound (2011),Comedy|Romance,5.0,Romance
+6983,Jane Eyre (1944),Drama|Romance,5.0,Romance
+147196,The Girls (1961),Comedy|Romance,5.0,Romance
+158882,All Yours (2016),Comedy|Drama|Romance,5.0,Romance
+60737,Watching the Detectives (2007),Comedy|Romance,5.0,Romance
+3792,Duel in the Sun (1946),Drama|Romance|Western,5.0,Romance
+4495,Crossing Delancey (1988),Comedy|Romance,5.0,Romance
+movieId,title,genres,rating,genre
+4298,Rififi (Du rififi chez les hommes) (1955),Crime|Film-Noir|Thriller,4.75,Film-Noir
+2511,"Long Goodbye, The (1973)",Crime|Film-Noir,4.666666666666667,Film-Noir
+48872,13 Tzameti (2005),Film-Noir|Thriller,4.5,Film-Noir
+6515,You Only Live Once (1937),Crime|Film-Noir,4.5,Film-Noir
+922,Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,4.333333333333333,Film-Noir
+942,Laura (1944),Crime|Film-Noir|Mystery,4.333333333333333,Film-Noir
+3435,Double Indemnity (1944),Crime|Drama|Film-Noir,4.323529411764706,Film-Noir
+1248,Touch of Evil (1958),Crime|Film-Noir|Thriller,4.264705882352941,Film-Noir
+930,Notorious (1946),Film-Noir|Romance|Thriller,4.25,Film-Noir
+1212,"Third Man, The (1949)",Film-Noir|Mystery|Thriller,4.229166666666667,Film-Noir
+1245,Miller's Crossing (1990),Crime|Drama|Film-Noir|Thriller,4.225,Film-Noir
+1252,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller,4.211864406779661,Film-Noir
+3334,Key Largo (1948),Crime|Drama|Film-Noir|Thriller,4.2,Film-Noir
+913,"Maltese Falcon, The (1941)",Film-Noir|Mystery,4.170454545454546,Film-Noir
+7216,High Sierra (1941),Crime|Drama|Film-Noir|Thriller,4.166666666666667,Film-Noir
+1284,"Big Sleep, The (1946)",Crime|Film-Noir|Mystery,4.142857142857143,Film-Noir
+4432,Sweet Smell of Success (1957),Drama|Film-Noir,4.125,Film-Noir
+2066,Out of the Past (1947),Film-Noir,4.125,Film-Noir
+1617,L.A. Confidential (1997),Crime|Film-Noir|Mystery|Thriller,4.061855670103093,Film-Noir
+2726,"Killing, The (1956)",Crime|Film-Noir,4.055555555555555,Film-Noir
+movieId,title,genres,rating,genre
+143559,L.A. Slasher (2015),Comedy|Crime|Fantasy,5.0,Crime
+107951,Hunting Elephants (2013),Comedy|Crime,5.0,Crime
+147286,The Adventures of Sherlock Holmes and Doctor Watson: The Treasures of Agra (1983),Crime|Mystery,5.0,Crime
+138632,Tokyo Tribe (2014),Action|Crime|Drama|Sci-Fi,5.0,Crime
+136850,Villain (1971),Crime|Drama|Thriller,5.0,Crime
+76091,Mother (Madeo) (2009),Crime|Drama|Mystery|Thriller,5.0,Crime
+77846,12 Angry Men (1997),Crime|Drama,5.0,Crime
+5888,Brother (Brat) (1997),Crime|Drama,5.0,Crime
+26840,Sonatine (Sonachine) (1993),Action|Comedy|Crime|Drama,5.0,Crime
+109241,On the Other Side of the Tracks (De l'autre côté du périph) (2012),Action|Comedy|Crime,5.0,Crime
+80124,Sisters (Syostry) (2001),Action|Crime|Drama,5.0,Crime
+147326,The Adventures of Sherlock Holmes and Doctor Watson: King of Blackmailers (1980),Crime|Mystery,5.0,Crime
+6021,"American Friend, The (Amerikanische Freund, Der) (1977)",Crime|Drama|Mystery|Thriller,5.0,Crime
+26587,"Decalogue, The (Dekalog) (1989)",Crime|Drama|Romance,5.0,Crime
+6086,"I, the Jury (1982)",Crime|Drama|Thriller,5.0,Crime
+59814,Ex Drummer (2007),Comedy|Crime|Drama|Horror,5.0,Crime
+26169,Branded to Kill (Koroshi no rakuin) (1967),Action|Crime|Drama,5.0,Crime
+82744,Faster (2010),Action|Crime|Drama,5.0,Crime
+8238,Little Murders (1971),Comedy|Crime,5.0,Crime
+93320,Trailer Park Boys (1999),Comedy|Crime,5.0,Crime
+movieId,title,genres,rating,genre
+8580,Into the Woods (1991),Adventure|Comedy|Fantasy|Musical,5.0,Musical
+7815,True Stories (1986),Comedy|Musical,5.0,Musical
+96832,Holy Motors (2012),Drama|Fantasy|Musical|Mystery|Sci-Fi,5.0,Musical
+3086,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,5.0,Musical
+8738,"Woman Is a Woman, A (femme est une femme, Une) (1961)",Comedy|Drama|Musical|Romance,5.0,Musical
+5537,Satin Rouge (2002),Drama|Musical,5.0,Musical
+93008,"Very Potter Sequel, A (2010)",Comedy|Musical,5.0,Musical
+44889,Reefer Madness: The Movie Musical (2005),Comedy|Drama|Musical,4.75,Musical
+6345,"Chorus Line, A (1985)",Comedy|Drama|Musical,4.666666666666667,Musical
+3315,Happy Go Lovely (1951),Musical,4.5,Musical
+1066,Shall We Dance (1937),Comedy|Musical|Romance,4.5,Musical
+4708,Marat/Sade (1966),Drama|Musical,4.5,Musical
+105540,"All Dogs Christmas Carol, An (1998)",Animation|Children|Comedy|Musical,4.5,Musical
+549,Thirty-Two Short Films About Glenn Gould (1993),Drama|Musical,4.5,Musical
+7614,Oklahoma! (1955),Musical|Romance|Western,4.5,Musical
+2677,Buena Vista Social Club (1999),Documentary|Musical,4.375,Musical
+4789,Phantom of the Paradise (1974),Comedy|Fantasy|Horror|Musical|Thriller,4.333333333333333,Musical
+27563,"Happiness of the Katakuris, The (Katakuri-ke no kôfuku) (2001)",Comedy|Horror|Musical,4.333333333333333,Musical
+93006,"Very Potter Musical, A (2009)",Comedy|Musical,4.25,Musical
+7888,How to Succeed in Business Without Really Trying (1967),Comedy|Musical,4.25,Musical
+movieId,title,genres,rating,genre
+4454,More (1998),Animation|Drama|Sci-Fi|IMAX,5.0,IMAX
+91386,Happy Feet Two (2011),Animation|Children|Comedy|IMAX,5.0,IMAX
+100882,Journey to the West: Conquering the Demons (Daai wa sai you chi Chui mo chun kei) (2013),Adventure|Comedy|Fantasy|Romance|IMAX,4.75,IMAX
+88932,Final Destination 5 (2011),Horror|Thriller|IMAX,4.5,IMAX
+1797,Everest (1998),Documentary|IMAX,4.25,IMAX
+58559,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX,4.238255033557047,IMAX
+78499,Toy Story 3 (2010),Adventure|Animation|Children|Comedy|Fantasy|IMAX,4.109090909090909,IMAX
+79132,Inception (2010),Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX,4.066433566433567,IMAX
+105504,Captain Phillips (2013),Adventure|Drama|Thriller|IMAX,4.0476190476190474,IMAX
+107953,Dragon Ball Z: Battle of Gods (2013),Action|Animation|Fantasy|IMAX,4.0,IMAX
+4458,Africa: The Serengeti (1994),Documentary|IMAX,4.0,IMAX
+4459,Alaska: Spirit of the Wild (1997),Documentary|IMAX,4.0,IMAX
+4445,T-Rex: Back to the Cretaceous (1998),Adventure|Documentary|IMAX,4.0,IMAX
+80615,Legend of the Guardians: The Owls of Ga'Hoole (2010),Adventure|Animation|Fantasy|IMAX,4.0,IMAX
+91529,"Dark Knight Rises, The (2012)",Action|Adventure|Crime|IMAX,3.9934210526315788,IMAX
+109487,Interstellar (2014),Sci-Fi|IMAX,3.993150684931507,IMAX
+81834,Harry Potter and the Deathly Hallows: Part 1 (2010),Action|Adventure|Fantasy|IMAX,3.9893617021276597,IMAX
+60684,Watchmen (2009),Action|Drama|Mystery|Sci-Fi|Thriller|IMAX,3.988372093023256,IMAX
+111759,Edge of Tomorrow (2014),Action|Sci-Fi|IMAX,3.977272727272727,IMAX
+76093,How to Train Your Dragon (2010),Adventure|Animation|Children|Fantasy|IMAX,3.943396226415094,IMAX
+movieId,title,genres,rating,genre
+3939,Slumber Party Massacre II (1987),Horror,5.0,Horror
+118270,Hellbenders (2012),Comedy|Horror|Thriller,5.0,Horror
+140133,Hollywood Chainsaw Hookers (1988),Comedy|Horror,5.0,Horror
+27751,'Salem's Lot (2004),Drama|Horror|Mystery|Thriller,5.0,Horror
+132153,Buzzard (2015),Comedy|Drama|Horror,5.0,Horror
+100906,Maniac Cop 2 (1990),Action|Horror|Thriller,5.0,Horror
+53280,"Breed, The (2006)",Horror|Thriller,5.0,Horror
+3941,Sorority House Massacre (1986),Horror,5.0,Horror
+69211,Boy Eats Girl (2005),Comedy|Horror,5.0,Horror
+26849,"Stand, The (1994)",Adventure|Drama|Fantasy|Horror|Sci-Fi,5.0,Horror
+141718,Deathgasm (2015),Comedy|Horror,5.0,Horror
+6835,Alien Contamination (1980),Action|Horror|Sci-Fi,5.0,Horror
+141928,Bloodsucking Bastards (2015),Comedy|Horror,5.0,Horror
+3940,Slumber Party Massacre III (1990),Horror,5.0,Horror
+142444,The Editor (2015),Comedy|Horror|Mystery,5.0,Horror
+3942,Sorority House Massacre II (1990),Horror,5.0,Horror
+107771,Only Lovers Left Alive (2013),Drama|Horror|Romance,5.0,Horror
+149350,Lumberjack Man (2015),Comedy|Horror,5.0,Horror
+59814,Ex Drummer (2007),Comedy|Crime|Drama|Horror,5.0,Horror
+1349,Vampire in Venice (Nosferatu a Venezia) (Nosferatu in Venice) (1986),Horror,5.0,Horror
+movieId,title,genres,rating,genre
+124404,"Snowflake, the White Gorilla (2011)",Adventure|Animation|Children|Comedy,5.0,Adventure
+141816,12 Chairs (1976),Adventure|Comedy,5.0,Adventure
+3687,Light Years (Gandahar) (1988),Adventure|Animation|Fantasy|Sci-Fi,5.0,Adventure
+156025,Ice Age: The Great Egg-Scapade (2016),Adventure|Animation|Children|Comedy,5.0,Adventure
+150554,The Love Bug (1997),Adventure|Children|Comedy|Fantasy,5.0,Adventure
+4135,"Monster Squad, The (1987)",Adventure|Comedy|Horror,5.0,Adventure
+146662,Dragons: Gift of the Night Fury (2011),Adventure|Animation|Comedy,5.0,Adventure
+115727,Crippled Avengers (Can que) (Return of the 5 Deadly Venoms) (1981),Action|Adventure,5.0,Adventure
+138835,Return to Treasure Island (1988),Adventure|Animation|Comedy,5.0,Adventure
+166183,Junior and Karlson (1968),Adventure|Animation|Children,5.0,Adventure
+5244,Shogun Assassin (1980),Action|Adventure,5.0,Adventure
+33138,Palindromes (2004),Adventure|Comedy|Drama,5.0,Adventure
+26849,"Stand, The (1994)",Adventure|Drama|Fantasy|Horror|Sci-Fi,5.0,Adventure
+8580,Into the Woods (1991),Adventure|Comedy|Fantasy|Musical,5.0,Adventure
+91355,Asterix and the Vikings (Astérix et les Vikings) (2006),Adventure|Animation|Children|Comedy|Fantasy,5.0,Adventure
+124851,Delirium (2014),Adventure|Romance|Sci-Fi,5.0,Adventure
+108795,Wonder Woman (2009),Action|Adventure|Animation|Fantasy,5.0,Adventure
+126921,The Fox and the Hound 2 (2006),Adventure|Animation|Children|Comedy,5.0,Adventure
+104780,"Mystery of the Third Planet, The (Tayna tretey planety) (1981)",Adventure|Animation|Sci-Fi,5.0,Adventure
+172585,Karlson Returns (1970),Adventure|Animation|Children,5.0,Adventure
+movieId,title,genres,rating,genre
+72142,Love Exposure (Ai No Mukidashi) (2008),Action|Comedy|Drama|Romance,5.0,Action
+138632,Tokyo Tribe (2014),Action|Crime|Drama|Sci-Fi,5.0,Action
+115727,Crippled Avengers (Can que) (Return of the 5 Deadly Venoms) (1981),Action|Adventure,5.0,Action
+109241,On the Other Side of the Tracks (De l'autre côté du périph) (2012),Action|Comedy|Crime,5.0,Action
+108795,Wonder Woman (2009),Action|Adventure|Animation|Fantasy,5.0,Action
+102084,Justice League: Doom (2012) ,Action|Animation|Fantasy,5.0,Action
+100906,Maniac Cop 2 (1990),Action|Horror|Thriller,5.0,Action
+1631,"Assignment, The (1997)",Action|Thriller,5.0,Action
+95149,Superman/Batman: Public Enemies (2009),Action|Animation|Fantasy,5.0,Action
+2196,Knock Off (1998),Action,5.0,Action
+82744,Faster (2010),Action|Crime|Drama,5.0,Action
+80124,Sisters (Syostry) (2001),Action|Crime|Drama,5.0,Action
+70451,Max Manus (2008),Action|Drama|War,5.0,Action
+4180,Reform School Girls (1986),Action|Drama,5.0,Action
+27704,Battle Royale 2: Requiem (Batoru rowaiaru II: Chinkonka) (2003),Action|Drama|Thriller|War,5.0,Action
+26840,Sonatine (Sonachine) (1993),Action|Comedy|Crime|Drama,5.0,Action
+26401,Last Hurrah for Chivalry (Hao xia) (1979),Action|Drama,5.0,Action
+26169,Branded to Kill (Koroshi no rakuin) (1967),Action|Crime|Drama,5.0,Action
+5244,Shogun Assassin (1980),Action|Adventure,5.0,Action
+6835,Alien Contamination (1980),Action|Horror|Sci-Fi,5.0,Action
+movieId,title,genres,rating,genre
+6818,Come and See (Idi i smotri) (1985),Drama|War,5.0,War
+122092,Guy X (2005),Comedy|War,5.0,War
+27704,Battle Royale 2: Requiem (Batoru rowaiaru II: Chinkonka) (2003),Action|Drama|Thriller|War,5.0,War
+26073,"Human Condition III, The (Ningen no joken III) (1961)",Drama|War,5.0,War
+2972,Red Sorghum (Hong gao liang) (1987),Drama|War,5.0,War
+64499,Che: Part One (2008),Drama|War,5.0,War
+64501,Che: Part Two (2008),Drama|War,5.0,War
+2075,Mephisto (1981),Drama|War,5.0,War
+70451,Max Manus (2008),Action|Drama|War,5.0,War
+69860,Eichmann (2007),Drama|War,5.0,War
+7122,King of Hearts (1966),Comedy|Drama|War,5.0,War
+140627,Battle For Sevastopol (2015),Drama|Romance|War,5.0,War
+126430,The Pacific (2010),Action|Adventure|Drama|War,4.75,War
+5915,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War,4.75,War
+43376,Sophie Scholl: The Final Days (Sophie Scholl - Die letzten Tage) (2005),Drama|War,4.625,War
+1178,Paths of Glory (1957),Drama|War,4.541666666666667,War
+3003,Train of Life (Train de vie) (1998),Comedy|Drama|Romance|War,4.5,War
+4338,Twelve O'Clock High (1949),Drama|War,4.5,War
+26122,Onibaba (1964),Drama|Horror|War,4.5,War
+4407,Salvador (1986),Drama|Thriller|War,4.5,War
+movieId,title,genres,rating,genre
+26073,"Human Condition III, The (Ningen no joken III) (1961)",Drama|War,5.0,Drama
+120138,PK (2014),Comedy|Drama|Fantasy|Mystery|Romance,5.0,Drama
+164367,The Girl with All the Gifts (2016),Drama|Horror|Sci-Fi|Thriller,5.0,Drama
+3567,Bossa Nova (2000),Comedy|Drama|Romance,5.0,Drama
+2969,"Man and a Woman, A (Un homme et une femme) (1966)",Drama|Romance,5.0,Drama
+7071,"Woman Under the Influence, A (1974)",Drama,5.0,Drama
+26587,"Decalogue, The (Dekalog) (1989)",Crime|Drama|Romance,5.0,Drama
+120130,Into the Forest of Fireflies' Light (2011),Animation|Drama|Fantasy,5.0,Drama
+165959,Alesha Popovich and Tugarin the Dragon (2004),Animation|Comedy|Drama,5.0,Drama
+25906,Mr. Skeffington (1944),Drama|Romance,5.0,Drama
+69860,Eichmann (2007),Drama|War,5.0,Drama
+5745,"Four Seasons, The (1981)",Comedy|Drama,5.0,Drama
+80124,Sisters (Syostry) (2001),Action|Crime|Drama,5.0,Drama
+27704,Battle Royale 2: Requiem (Batoru rowaiaru II: Chinkonka) (2003),Action|Drama|Thriller|War,5.0,Drama
+3951,Two Family House (2000),Drama,5.0,Drama
+6818,Come and See (Idi i smotri) (1985),Drama|War,5.0,Drama
+79897,Get Low (2009),Comedy|Drama|Mystery,5.0,Drama
+94810,Eva (2011),Drama|Fantasy|Sci-Fi,5.0,Drama
+70451,Max Manus (2008),Action|Drama|War,5.0,Drama
+27751,'Salem's Lot (2004),Drama|Horror|Mystery|Thriller,5.0,Drama
+movieId,title,genres,rating,genre
+94810,Eva (2011),Drama|Fantasy|Sci-Fi,5.0,Sci-Fi
+96832,Holy Motors (2012),Drama|Fantasy|Musical|Mystery|Sci-Fi,5.0,Sci-Fi
+6835,Alien Contamination (1980),Action|Horror|Sci-Fi,5.0,Sci-Fi
+5746,Galaxy of Terror (Quest) (1981),Action|Horror|Mystery|Sci-Fi,5.0,Sci-Fi
+172875,A Detective Story (2003),Animation|Sci-Fi,5.0,Sci-Fi
+3687,Light Years (Gandahar) (1988),Adventure|Animation|Fantasy|Sci-Fi,5.0,Sci-Fi
+124851,Delirium (2014),Adventure|Romance|Sci-Fi,5.0,Sci-Fi
+4454,More (1998),Animation|Drama|Sci-Fi|IMAX,5.0,Sci-Fi
+5468,20 Million Miles to Earth (1957),Sci-Fi,5.0,Sci-Fi
+96608,Runaway Brain (1995) ,Animation|Comedy|Sci-Fi,5.0,Sci-Fi
+158027,SORI: Voice from the Heart (2016),Drama|Sci-Fi,5.0,Sci-Fi
+26849,"Stand, The (1994)",Adventure|Drama|Fantasy|Horror|Sci-Fi,5.0,Sci-Fi
+104780,"Mystery of the Third Planet, The (Tayna tretey planety) (1981)",Adventure|Animation|Sci-Fi,5.0,Sci-Fi
+164367,The Girl with All the Gifts (2016),Drama|Horror|Sci-Fi|Thriller,5.0,Sci-Fi
+4813,When Worlds Collide (1951),Sci-Fi,5.0,Sci-Fi
+138632,Tokyo Tribe (2014),Action|Crime|Drama|Sci-Fi,5.0,Sci-Fi
+147376,Doctor Who: A Christmas Carol (2010),Sci-Fi,4.75,Sci-Fi
+174053,Black Mirror: White Christmas (2014),Drama|Horror|Mystery|Sci-Fi|Thriller,4.75,Sci-Fi
+106642,"Day of the Doctor, The (2013)",Adventure|Drama|Sci-Fi,4.571428571428571,Sci-Fi
+85736,BURN-E (2008),Adventure|Animation|Children|Sci-Fi,4.5,Sci-Fi
+movieId,title,genres,rating,genre
+3792,Duel in the Sun (1946),Drama|Romance|Western,5.0,Western
+128087,Trinity and Sartana Are Coming (1972),Comedy|Western,5.0,Western
+42556,7 Faces of Dr. Lao (1964),Fantasy|Mystery|Western,5.0,Western
+7614,Oklahoma! (1955),Musical|Romance|Western,4.5,Western
+157108,Texas - Doc Snyder hält die Welt in Atem (1993),Comedy|Western,4.5,Western
+78620,"Scalphunters, The (1968)",Comedy|Western,4.5,Western
+144976,Bone Tomahawk (2015),Horror|Western,4.5,Western
+82857,Sweetgrass (2009),Adventure|Documentary|Western,4.5,Western
+7218,"Ox-Bow Incident, The (1943)",Drama|Western,4.5,Western
+4406,"Man Who Shot Liberty Valance, The (1962)",Crime|Drama|Western,4.4,Western
+3727,Near Dark (1987),Horror|Western,4.3125,Western
+1209,Once Upon a Time in the West (C'era una volta il West) (1968),Action|Drama|Western,4.305555555555555,Western
+3074,Jeremiah Johnson (1972),Western,4.25,Western
+133802,Slow West (2015),Action|Thriller|Western,4.25,Western
+3508,"Outlaw Josey Wales, The (1976)",Action|Adventure|Drama|Thriller|Western,4.25,Western
+1283,High Noon (1952),Drama|Western,4.2105263157894735,Western
+2921,High Plains Drifter (1973),Western,4.181818181818182,Western
+800,Lone Star (1996),Drama|Mystery|Western,4.157894736842105,Western
+3681,For a Few Dollars More (Per qualche dollaro in più) (1965),Action|Drama|Thriller|Western,4.151515151515151,Western
+3037,Little Big Man (1970),Western,4.145833333333333,Western
+movieId,title,genres,rating,genre
+118894,Scooby-Doo! Abracadabra-Doo (2010),Animation|Children|Mystery,5.0,Children
+170777,There Once Was a Dog (1982),Animation|Children|Comedy,5.0,Children
+136359,Scooby-Doo Goes Hollywood (1979),Animation|Children|Comedy,5.0,Children
+136503,Tom and Jerry: Shiver Me Whiskers (2006),Animation|Children|Comedy,5.0,Children
+136556,Kung Fu Panda: Secrets of the Masters (2011),Animation|Children,5.0,Children
+136341,Scooby-Doo! and the Samurai Sword (2009),Animation|Children|Comedy,5.0,Children
+146684,Cosmic Scrat-tastrophe (2015),Animation|Children|Comedy,5.0,Children
+131098,Saving Santa (2013),Animation|Children|Comedy,5.0,Children
+150554,The Love Bug (1997),Adventure|Children|Comedy|Fantasy,5.0,Children
+156025,Ice Age: The Great Egg-Scapade (2016),Adventure|Animation|Children|Comedy,5.0,Children
+95311,Presto (2008),Animation|Children|Comedy|Fantasy,5.0,Children
+163072,Winnie Pooh (1969),Animation|Children,5.0,Children
+3086,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,5.0,Children
+91386,Happy Feet Two (2011),Animation|Children|Comedy|IMAX,5.0,Children
+166183,Junior and Karlson (1968),Adventure|Animation|Children,5.0,Children
+136353,Scooby-Doo! and the Loch Ness Monster (2004),Animation|Children|Comedy,5.0,Children
+91355,Asterix and the Vikings (Astérix et les Vikings) (2006),Adventure|Animation|Children|Comedy|Fantasy,5.0,Children
+173351,Wow! A Talking Fish! (1983),Animation|Children|Comedy|Fantasy,5.0,Children
+85295,Scooby-Doo! Curse of the Lake Monster (2010),Adventure|Children|Comedy|Mystery,5.0,Children
+121781,Stuart Little 3: Call of the Wild (2005),Animation|Children|Comedy|Fantasy,5.0,Children
+movieId,title,genres,rating,genre
+132333,Seve (2014),Documentary|Drama,5.0,Documentary
+6408,Animals are Beautiful People (1974),Comedy|Documentary,5.0,Documentary
+117531,Watermark (2014),Documentary,5.0,Documentary
+109687,Particle Fever (2013),Documentary,5.0,Documentary
+74226,"Dream of Light (a.k.a. Quince Tree Sun, The) (Sol del membrillo, El) (1992)",Documentary|Drama,5.0,Documentary
+1310,Hype! (1996),Documentary,5.0,Documentary
+134796,Bitter Lake (2015),Documentary,5.0,Documentary
+103602,Craig Ferguson: I'm Here To Help (2013),Comedy|Documentary,5.0,Documentary
+84273,Zeitgeist: Moving Forward (2011),Documentary,5.0,Documentary
+86237,Connections (1978),Documentary,5.0,Documentary
+167064,I Am Not Your Negro (2017),Documentary,5.0,Documentary
+44943,9/11 (2002),Documentary,5.0,Documentary
+26366,Harlan County U.S.A. (1976),Documentary,5.0,Documentary
+100556,"Act of Killing, The (2012)",Documentary,5.0,Documentary
+152711,Who Killed Chea Vichea? (2010),Documentary,5.0,Documentary
+5059,Little Dieter Needs to Fly (1997),Documentary,5.0,Documentary
+172705,Tickling Giants (2017),Documentary,5.0,Documentary
+86668,Louis Theroux: Law & Disorder (2008),Documentary,5.0,Documentary
+7096,Rivers and Tides (2001),Documentary,5.0,Documentary
+2824,On the Ropes (1999),Documentary|Drama,5.0,Documentary
+movieId,title,genres,rating,genre
+83969,Down Argentine Way (1940),Comedy|Drama|Romance,5.0,Comedy
+88448,Paper Birds (Pájaros de papel) (2010),Comedy|Drama,5.0,Comedy
+91355,Asterix and the Vikings (Astérix et les Vikings) (2006),Adventure|Animation|Children|Comedy|Fantasy,5.0,Comedy
+4116,Hollywood Shuffle (1987),Comedy,5.0,Comedy
+91386,Happy Feet Two (2011),Animation|Children|Comedy|IMAX,5.0,Comedy
+136503,Tom and Jerry: Shiver Me Whiskers (2006),Animation|Children|Comedy,5.0,Comedy
+136469,Larry David: Curb Your Enthusiasm (1999),Comedy,5.0,Comedy
+136447,George Carlin: You Are All Diseased (1999),Comedy,5.0,Comedy
+136445,George Carlin: Back in Town (1996),Comedy,5.0,Comedy
+136359,Scooby-Doo Goes Hollywood (1979),Animation|Children|Comedy,5.0,Comedy
+136355,Big Top Scooby-Doo! (2012),Animation|Children|Comedy,5.0,Comedy
+136353,Scooby-Doo! and the Loch Ness Monster (2004),Animation|Children|Comedy,5.0,Comedy
+136341,Scooby-Doo! and the Samurai Sword (2009),Animation|Children|Comedy,5.0,Comedy
+5745,"Four Seasons, The (1981)",Comedy|Drama,5.0,Comedy
+4135,"Monster Squad, The (1987)",Adventure|Comedy|Horror,5.0,Comedy
+134847,Ghost Graduation (2012),Comedy,5.0,Comedy
+467,Live Nude Girls (1995),Comedy,5.0,Comedy
+92494,Dylan Moran: Monster (2004),Comedy|Documentary,5.0,Comedy
+1151,Lesson Faust (1994),Animation|Comedy|Drama|Fantasy,5.0,Comedy
+134109,Radio Day (2008),Comedy,5.0,Comedy
+movieId,title,genres,rating,genre
+27704,Battle Royale 2: Requiem (Batoru rowaiaru II: Chinkonka) (2003),Action|Drama|Thriller|War,5.0,Thriller
+1631,"Assignment, The (1997)",Action|Thriller,5.0,Thriller
+27751,'Salem's Lot (2004),Drama|Horror|Mystery|Thriller,5.0,Thriller
+164367,The Girl with All the Gifts (2016),Drama|Horror|Sci-Fi|Thriller,5.0,Thriller
+53280,"Breed, The (2006)",Horror|Thriller,5.0,Thriller
+6086,"I, the Jury (1982)",Crime|Drama|Thriller,5.0,Thriller
+6021,"American Friend, The (Amerikanische Freund, Der) (1977)",Crime|Drama|Mystery|Thriller,5.0,Thriller
+496,What Happened Was... (1994),Comedy|Drama|Romance|Thriller,5.0,Thriller
+76091,Mother (Madeo) (2009),Crime|Drama|Mystery|Thriller,5.0,Thriller
+136850,Villain (1971),Crime|Drama|Thriller,5.0,Thriller
+100906,Maniac Cop 2 (1990),Action|Horror|Thriller,5.0,Thriller
+876,Supercop 2 (Project S) (Chao ji ji hua) (1993),Action|Comedy|Crime|Thriller,5.0,Thriller
+118270,Hellbenders (2012),Comedy|Horror|Thriller,5.0,Thriller
+5416,Cherish (2002),Comedy|Drama|Thriller,5.0,Thriller
+40412,Dead Man's Shoes (2004),Crime|Thriller,4.75,Thriller
+174053,Black Mirror: White Christmas (2014),Drama|Horror|Mystery|Sci-Fi|Thriller,4.75,Thriller
+4298,Rififi (Du rififi chez les hommes) (1955),Crime|Film-Noir|Thriller,4.75,Thriller
+31364,Memories of Murder (Salinui chueok) (2003),Crime|Drama|Mystery|Thriller,4.7,Thriller
+46855,Army of Shadows (L'armée des ombres) (1969),Action|Drama|Thriller|War,4.5,Thriller
+4956,"Stunt Man, The (1980)",Action|Adventure|Comedy|Drama|Romance|Thriller,4.5,Thriller
+movieId,title,genres,rating,genre
+172577,Last Year's Snow Was Falling (1983),Animation|Children|Comedy|Fantasy,5.0,Fantasy
+96935,My Left Eye Sees Ghosts (Ngo joh aan gin diy gwai) (2002),Comedy|Fantasy|Romance,5.0,Fantasy
+95843,Goodbye Charlie (1964),Comedy|Fantasy|Romance,5.0,Fantasy
+121781,Stuart Little 3: Call of the Wild (2005),Animation|Children|Comedy|Fantasy,5.0,Fantasy
+96430,"Odd Life of Timothy Green, The (2012)",Comedy|Drama|Fantasy,5.0,Fantasy
+26849,"Stand, The (1994)",Adventure|Drama|Fantasy|Horror|Sci-Fi,5.0,Fantasy
+96832,Holy Motors (2012),Drama|Fantasy|Musical|Mystery|Sci-Fi,5.0,Fantasy
+120138,PK (2014),Comedy|Drama|Fantasy|Mystery|Romance,5.0,Fantasy
+120130,Into the Forest of Fireflies' Light (2011),Animation|Drama|Fantasy,5.0,Fantasy
+172793,Vovka in the Kingdom of Far Far Away (1965),Adventure|Animation|Children|Fantasy,5.0,Fantasy
+150554,The Love Bug (1997),Adventure|Children|Comedy|Fantasy,5.0,Fantasy
+72692,Mickey's Once Upon a Christmas (1999),Animation|Comedy|Fantasy,5.0,Fantasy
+42556,7 Faces of Dr. Lao (1964),Fantasy|Mystery|Western,5.0,Fantasy
+112512,Colourful (Karafuru) (2010),Animation|Drama|Fantasy|Mystery,5.0,Fantasy
+102084,Justice League: Doom (2012) ,Action|Animation|Fantasy,5.0,Fantasy
+27320,"Nine Lives of Tomas Katz, The (2000)",Comedy|Drama|Fantasy,5.0,Fantasy
+108795,Wonder Woman (2009),Action|Adventure|Animation|Fantasy,5.0,Fantasy
+159811,The Bremen Town Musicians (1969),Animation|Drama|Fantasy,5.0,Fantasy
+173351,Wow! A Talking Fish! (1983),Animation|Children|Comedy|Fantasy,5.0,Fantasy
+91355,Asterix and the Vikings (Astérix et les Vikings) (2006),Adventure|Animation|Children|Comedy|Fantasy,5.0,Fantasy
+movieId,title,genres,rating,genre
+151769,Three from Prostokvashino (1978),Animation,5.0,Animation
+170597,A Plasticine Crow (1981),Animation,5.0,Animation
+146662,Dragons: Gift of the Night Fury (2011),Adventure|Animation|Comedy,5.0,Animation
+126088,A Flintstones Christmas Carol (1994),Animation|Children|Comedy,5.0,Animation
+146684,Cosmic Scrat-tastrophe (2015),Animation|Children|Comedy,5.0,Animation
+4454,More (1998),Animation|Drama|Sci-Fi|IMAX,5.0,Animation
+156025,Ice Age: The Great Egg-Scapade (2016),Adventure|Animation|Children|Comedy,5.0,Animation
+157775,Tenchi Muyô! In Love (1996),Animation|Comedy,5.0,Animation
+124404,"Snowflake, the White Gorilla (2011)",Adventure|Animation|Children|Comedy,5.0,Animation
+159811,The Bremen Town Musicians (1969),Animation|Drama|Fantasy,5.0,Animation
+96608,Runaway Brain (1995) ,Animation|Comedy|Sci-Fi,5.0,Animation
+163072,Winnie Pooh (1969),Animation|Children,5.0,Animation
+163112,Winnie the Pooh Goes Visiting (1971),Animation,5.0,Animation
+121781,Stuart Little 3: Call of the Wild (2005),Animation|Children|Comedy|Fantasy,5.0,Animation
+163386,Winnie the Pooh and the Day of Concern (1972),Animation,5.0,Animation
+163925,"Wings, Legs and Tails (1986)",Animation|Comedy,5.0,Animation
+165959,Alesha Popovich and Tugarin the Dragon (2004),Animation|Comedy|Drama,5.0,Animation
+72692,Mickey's Once Upon a Christmas (1999),Animation|Comedy|Fantasy,5.0,Animation
+166183,Junior and Karlson (1968),Adventure|Animation|Children,5.0,Animation
+95149,Superman/Batman: Public Enemies (2009),Action|Animation|Fantasy,5.0,Animation
+movieId,title,genres,rating,genre
+147326,The Adventures of Sherlock Holmes and Doctor Watson: King of Blackmailers (1980),Crime|Mystery,5.0,Mystery
+142444,The Editor (2015),Comedy|Horror|Mystery,5.0,Mystery
+112512,Colourful (Karafuru) (2010),Animation|Drama|Fantasy|Mystery,5.0,Mystery
+147300,Adventures Of Sherlock Holmes And Dr. Watson: The Twentieth Century Approaches (1986),Crime|Mystery,5.0,Mystery
+118894,Scooby-Doo! Abracadabra-Doo (2010),Animation|Children|Mystery,5.0,Mystery
+76091,Mother (Madeo) (2009),Crime|Drama|Mystery|Thriller,5.0,Mystery
+120138,PK (2014),Comedy|Drama|Fantasy|Mystery|Romance,5.0,Mystery
+79897,Get Low (2009),Comedy|Drama|Mystery,5.0,Mystery
+5746,Galaxy of Terror (Quest) (1981),Action|Horror|Mystery|Sci-Fi,5.0,Mystery
+96832,Holy Motors (2012),Drama|Fantasy|Musical|Mystery|Sci-Fi,5.0,Mystery
+6021,"American Friend, The (Amerikanische Freund, Der) (1977)",Crime|Drama|Mystery|Thriller,5.0,Mystery
+27751,'Salem's Lot (2004),Drama|Horror|Mystery|Thriller,5.0,Mystery
+85295,Scooby-Doo! Curse of the Lake Monster (2010),Adventure|Children|Comedy|Mystery,5.0,Mystery
+147286,The Adventures of Sherlock Holmes and Doctor Watson: The Treasures of Agra (1983),Crime|Mystery,5.0,Mystery
+42556,7 Faces of Dr. Lao (1964),Fantasy|Mystery|Western,5.0,Mystery
+30745,Gozu (Gokudô kyôfu dai-gekijô: Gozu) (2003),Comedy|Crime|Drama|Horror|Mystery,4.75,Mystery
+174053,Black Mirror: White Christmas (2014),Drama|Horror|Mystery|Sci-Fi|Thriller,4.75,Mystery
+74727,Gentlemen of Fortune (Dzhentlmeny udachi) (1972),Comedy|Crime|Drama|Mystery,4.75,Mystery
+31364,Memories of Murder (Salinui chueok) (2003),Crime|Drama|Mystery|Thriller,4.7,Mystery
+121469,Killer Movie (2008),Comedy|Horror|Mystery|Thriller,4.5,Mystery
+movieId,title,genres,rating,genre
+25906,Mr. Skeffington (1944),Drama|Romance,5.0,Romance
+113829,"One I Love, The (2014)",Comedy|Drama|Romance,5.0,Romance
+114265,Laggies (2014),Comedy|Romance,5.0,Romance
+124851,Delirium (2014),Adventure|Romance|Sci-Fi,5.0,Romance
+67618,Strictly Sexual (2008),Comedy|Drama|Romance,5.0,Romance
+26147,"Thousand Clowns, A (1965)",Comedy|Drama|Romance,5.0,Romance
+26928,"Summer's Tale, A (Conte d'été) (1996)",Comedy|Drama|Romance,5.0,Romance
+8911,Raise Your Voice (2004),Romance,5.0,Romance
+6192,Open Hearts (Elsker dig for evigt) (2002),Romance,5.0,Romance
+3531,All the Vermeers in New York (1990),Comedy|Drama|Romance,5.0,Romance
+149566,Unicorn City (2012),Comedy|Romance,5.0,Romance
+3567,Bossa Nova (2000),Comedy|Drama|Romance,5.0,Romance
+6201,Lady Jane (1986),Drama|Romance,5.0,Romance
+149508,Spellbound (2011),Comedy|Romance,5.0,Romance
+6983,Jane Eyre (1944),Drama|Romance,5.0,Romance
+147196,The Girls (1961),Comedy|Romance,5.0,Romance
+158882,All Yours (2016),Comedy|Drama|Romance,5.0,Romance
+60737,Watching the Detectives (2007),Comedy|Romance,5.0,Romance
+3792,Duel in the Sun (1946),Drama|Romance|Western,5.0,Romance
+4495,Crossing Delancey (1988),Comedy|Romance,5.0,Romance
+movieId,title,genres,rating,genre
+4298,Rififi (Du rififi chez les hommes) (1955),Crime|Film-Noir|Thriller,4.75,Film-Noir
+2511,"Long Goodbye, The (1973)",Crime|Film-Noir,4.666666666666667,Film-Noir
+48872,13 Tzameti (2005),Film-Noir|Thriller,4.5,Film-Noir
+6515,You Only Live Once (1937),Crime|Film-Noir,4.5,Film-Noir
+922,Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,4.333333333333333,Film-Noir
+942,Laura (1944),Crime|Film-Noir|Mystery,4.333333333333333,Film-Noir
+3435,Double Indemnity (1944),Crime|Drama|Film-Noir,4.323529411764706,Film-Noir
+1248,Touch of Evil (1958),Crime|Film-Noir|Thriller,4.264705882352941,Film-Noir
+930,Notorious (1946),Film-Noir|Romance|Thriller,4.25,Film-Noir
+1212,"Third Man, The (1949)",Film-Noir|Mystery|Thriller,4.229166666666667,Film-Noir
+1245,Miller's Crossing (1990),Crime|Drama|Film-Noir|Thriller,4.225,Film-Noir
+1252,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller,4.211864406779661,Film-Noir
+3334,Key Largo (1948),Crime|Drama|Film-Noir|Thriller,4.2,Film-Noir
+913,"Maltese Falcon, The (1941)",Film-Noir|Mystery,4.170454545454546,Film-Noir
+7216,High Sierra (1941),Crime|Drama|Film-Noir|Thriller,4.166666666666667,Film-Noir
+1284,"Big Sleep, The (1946)",Crime|Film-Noir|Mystery,4.142857142857143,Film-Noir
+4432,Sweet Smell of Success (1957),Drama|Film-Noir,4.125,Film-Noir
+2066,Out of the Past (1947),Film-Noir,4.125,Film-Noir
+1617,L.A. Confidential (1997),Crime|Film-Noir|Mystery|Thriller,4.061855670103093,Film-Noir
+2726,"Killing, The (1956)",Crime|Film-Noir,4.055555555555555,Film-Noir
+movieId,title,genres,rating,genre
+143559,L.A. Slasher (2015),Comedy|Crime|Fantasy,5.0,Crime
+107951,Hunting Elephants (2013),Comedy|Crime,5.0,Crime
+147286,The Adventures of Sherlock Holmes and Doctor Watson: The Treasures of Agra (1983),Crime|Mystery,5.0,Crime
+138632,Tokyo Tribe (2014),Action|Crime|Drama|Sci-Fi,5.0,Crime
+136850,Villain (1971),Crime|Drama|Thriller,5.0,Crime
+76091,Mother (Madeo) (2009),Crime|Drama|Mystery|Thriller,5.0,Crime
+77846,12 Angry Men (1997),Crime|Drama,5.0,Crime
+5888,Brother (Brat) (1997),Crime|Drama,5.0,Crime
+26840,Sonatine (Sonachine) (1993),Action|Comedy|Crime|Drama,5.0,Crime
+109241,On the Other Side of the Tracks (De l'autre côté du périph) (2012),Action|Comedy|Crime,5.0,Crime
+80124,Sisters (Syostry) (2001),Action|Crime|Drama,5.0,Crime
+147326,The Adventures of Sherlock Holmes and Doctor Watson: King of Blackmailers (1980),Crime|Mystery,5.0,Crime
+6021,"American Friend, The (Amerikanische Freund, Der) (1977)",Crime|Drama|Mystery|Thriller,5.0,Crime
+26587,"Decalogue, The (Dekalog) (1989)",Crime|Drama|Romance,5.0,Crime
+6086,"I, the Jury (1982)",Crime|Drama|Thriller,5.0,Crime
+59814,Ex Drummer (2007),Comedy|Crime|Drama|Horror,5.0,Crime
+26169,Branded to Kill (Koroshi no rakuin) (1967),Action|Crime|Drama,5.0,Crime
+82744,Faster (2010),Action|Crime|Drama,5.0,Crime
+8238,Little Murders (1971),Comedy|Crime,5.0,Crime
+93320,Trailer Park Boys (1999),Comedy|Crime,5.0,Crime
+movieId,title,genres,rating,genre
+8580,Into the Woods (1991),Adventure|Comedy|Fantasy|Musical,5.0,Musical
+7815,True Stories (1986),Comedy|Musical,5.0,Musical
+96832,Holy Motors (2012),Drama|Fantasy|Musical|Mystery|Sci-Fi,5.0,Musical
+3086,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,5.0,Musical
+8738,"Woman Is a Woman, A (femme est une femme, Une) (1961)",Comedy|Drama|Musical|Romance,5.0,Musical
+5537,Satin Rouge (2002),Drama|Musical,5.0,Musical
+93008,"Very Potter Sequel, A (2010)",Comedy|Musical,5.0,Musical
+44889,Reefer Madness: The Movie Musical (2005),Comedy|Drama|Musical,4.75,Musical
+6345,"Chorus Line, A (1985)",Comedy|Drama|Musical,4.666666666666667,Musical
+3315,Happy Go Lovely (1951),Musical,4.5,Musical
+1066,Shall We Dance (1937),Comedy|Musical|Romance,4.5,Musical
+4708,Marat/Sade (1966),Drama|Musical,4.5,Musical
+105540,"All Dogs Christmas Carol, An (1998)",Animation|Children|Comedy|Musical,4.5,Musical
+549,Thirty-Two Short Films About Glenn Gould (1993),Drama|Musical,4.5,Musical
+7614,Oklahoma! (1955),Musical|Romance|Western,4.5,Musical
+2677,Buena Vista Social Club (1999),Documentary|Musical,4.375,Musical
+4789,Phantom of the Paradise (1974),Comedy|Fantasy|Horror|Musical|Thriller,4.333333333333333,Musical
+27563,"Happiness of the Katakuris, The (Katakuri-ke no kôfuku) (2001)",Comedy|Horror|Musical,4.333333333333333,Musical
+93006,"Very Potter Musical, A (2009)",Comedy|Musical,4.25,Musical
+7888,How to Succeed in Business Without Really Trying (1967),Comedy|Musical,4.25,Musical
+movieId,title,genres,rating,genre
+4454,More (1998),Animation|Drama|Sci-Fi|IMAX,5.0,IMAX
+91386,Happy Feet Two (2011),Animation|Children|Comedy|IMAX,5.0,IMAX
+100882,Journey to the West: Conquering the Demons (Daai wa sai you chi Chui mo chun kei) (2013),Adventure|Comedy|Fantasy|Romance|IMAX,4.75,IMAX
+88932,Final Destination 5 (2011),Horror|Thriller|IMAX,4.5,IMAX
+1797,Everest (1998),Documentary|IMAX,4.25,IMAX
+58559,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX,4.238255033557047,IMAX
+78499,Toy Story 3 (2010),Adventure|Animation|Children|Comedy|Fantasy|IMAX,4.109090909090909,IMAX
+79132,Inception (2010),Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX,4.066433566433567,IMAX
+105504,Captain Phillips (2013),Adventure|Drama|Thriller|IMAX,4.0476190476190474,IMAX
+107953,Dragon Ball Z: Battle of Gods (2013),Action|Animation|Fantasy|IMAX,4.0,IMAX
+4458,Africa: The Serengeti (1994),Documentary|IMAX,4.0,IMAX
+4459,Alaska: Spirit of the Wild (1997),Documentary|IMAX,4.0,IMAX
+4445,T-Rex: Back to the Cretaceous (1998),Adventure|Documentary|IMAX,4.0,IMAX
+80615,Legend of the Guardians: The Owls of Ga'Hoole (2010),Adventure|Animation|Fantasy|IMAX,4.0,IMAX
+91529,"Dark Knight Rises, The (2012)",Action|Adventure|Crime|IMAX,3.9934210526315788,IMAX
+109487,Interstellar (2014),Sci-Fi|IMAX,3.993150684931507,IMAX
+81834,Harry Potter and the Deathly Hallows: Part 1 (2010),Action|Adventure|Fantasy|IMAX,3.9893617021276597,IMAX
+60684,Watchmen (2009),Action|Drama|Mystery|Sci-Fi|Thriller|IMAX,3.988372093023256,IMAX
+111759,Edge of Tomorrow (2014),Action|Sci-Fi|IMAX,3.977272727272727,IMAX
+76093,How to Train Your Dragon (2010),Adventure|Animation|Children|Fantasy|IMAX,3.943396226415094,IMAX
+movieId,title,genres,rating,genre
+3939,Slumber Party Massacre II (1987),Horror,5.0,Horror
+118270,Hellbenders (2012),Comedy|Horror|Thriller,5.0,Horror
+140133,Hollywood Chainsaw Hookers (1988),Comedy|Horror,5.0,Horror
+27751,'Salem's Lot (2004),Drama|Horror|Mystery|Thriller,5.0,Horror
+132153,Buzzard (2015),Comedy|Drama|Horror,5.0,Horror
+100906,Maniac Cop 2 (1990),Action|Horror|Thriller,5.0,Horror
+53280,"Breed, The (2006)",Horror|Thriller,5.0,Horror
+3941,Sorority House Massacre (1986),Horror,5.0,Horror
+69211,Boy Eats Girl (2005),Comedy|Horror,5.0,Horror
+26849,"Stand, The (1994)",Adventure|Drama|Fantasy|Horror|Sci-Fi,5.0,Horror
+141718,Deathgasm (2015),Comedy|Horror,5.0,Horror
+6835,Alien Contamination (1980),Action|Horror|Sci-Fi,5.0,Horror
+141928,Bloodsucking Bastards (2015),Comedy|Horror,5.0,Horror
+3940,Slumber Party Massacre III (1990),Horror,5.0,Horror
+142444,The Editor (2015),Comedy|Horror|Mystery,5.0,Horror
+3942,Sorority House Massacre II (1990),Horror,5.0,Horror
+107771,Only Lovers Left Alive (2013),Drama|Horror|Romance,5.0,Horror
+149350,Lumberjack Man (2015),Comedy|Horror,5.0,Horror
+59814,Ex Drummer (2007),Comedy|Crime|Drama|Horror,5.0,Horror
+1349,Vampire in Venice (Nosferatu a Venezia) (Nosferatu in Venice) (1986),Horror,5.0,Horror
+movieId,title,genres,rating,genre
+124404,"Snowflake, the White Gorilla (2011)",Adventure|Animation|Children|Comedy,5.0,Adventure
+141816,12 Chairs (1976),Adventure|Comedy,5.0,Adventure
+3687,Light Years (Gandahar) (1988),Adventure|Animation|Fantasy|Sci-Fi,5.0,Adventure
+156025,Ice Age: The Great Egg-Scapade (2016),Adventure|Animation|Children|Comedy,5.0,Adventure
+150554,The Love Bug (1997),Adventure|Children|Comedy|Fantasy,5.0,Adventure
+4135,"Monster Squad, The (1987)",Adventure|Comedy|Horror,5.0,Adventure
+146662,Dragons: Gift of the Night Fury (2011),Adventure|Animation|Comedy,5.0,Adventure
+115727,Crippled Avengers (Can que) (Return of the 5 Deadly Venoms) (1981),Action|Adventure,5.0,Adventure
+138835,Return to Treasure Island (1988),Adventure|Animation|Comedy,5.0,Adventure
+166183,Junior and Karlson (1968),Adventure|Animation|Children,5.0,Adventure
+5244,Shogun Assassin (1980),Action|Adventure,5.0,Adventure
+33138,Palindromes (2004),Adventure|Comedy|Drama,5.0,Adventure
+26849,"Stand, The (1994)",Adventure|Drama|Fantasy|Horror|Sci-Fi,5.0,Adventure
+8580,Into the Woods (1991),Adventure|Comedy|Fantasy|Musical,5.0,Adventure
+91355,Asterix and the Vikings (Astérix et les Vikings) (2006),Adventure|Animation|Children|Comedy|Fantasy,5.0,Adventure
+124851,Delirium (2014),Adventure|Romance|Sci-Fi,5.0,Adventure
+108795,Wonder Woman (2009),Action|Adventure|Animation|Fantasy,5.0,Adventure
+126921,The Fox and the Hound 2 (2006),Adventure|Animation|Children|Comedy,5.0,Adventure
+104780,"Mystery of the Third Planet, The (Tayna tretey planety) (1981)",Adventure|Animation|Sci-Fi,5.0,Adventure
+172585,Karlson Returns (1970),Adventure|Animation|Children,5.0,Adventure
+movieId,title,genres,rating,genre
+72142,Love Exposure (Ai No Mukidashi) (2008),Action|Comedy|Drama|Romance,5.0,Action
+138632,Tokyo Tribe (2014),Action|Crime|Drama|Sci-Fi,5.0,Action
+115727,Crippled Avengers (Can que) (Return of the 5 Deadly Venoms) (1981),Action|Adventure,5.0,Action
+109241,On the Other Side of the Tracks (De l'autre côté du périph) (2012),Action|Comedy|Crime,5.0,Action
+108795,Wonder Woman (2009),Action|Adventure|Animation|Fantasy,5.0,Action
+102084,Justice League: Doom (2012) ,Action|Animation|Fantasy,5.0,Action
+100906,Maniac Cop 2 (1990),Action|Horror|Thriller,5.0,Action
+1631,"Assignment, The (1997)",Action|Thriller,5.0,Action
+95149,Superman/Batman: Public Enemies (2009),Action|Animation|Fantasy,5.0,Action
+2196,Knock Off (1998),Action,5.0,Action
+82744,Faster (2010),Action|Crime|Drama,5.0,Action
+80124,Sisters (Syostry) (2001),Action|Crime|Drama,5.0,Action
+70451,Max Manus (2008),Action|Drama|War,5.0,Action
+4180,Reform School Girls (1986),Action|Drama,5.0,Action
+27704,Battle Royale 2: Requiem (Batoru rowaiaru II: Chinkonka) (2003),Action|Drama|Thriller|War,5.0,Action
+26840,Sonatine (Sonachine) (1993),Action|Comedy|Crime|Drama,5.0,Action
+26401,Last Hurrah for Chivalry (Hao xia) (1979),Action|Drama,5.0,Action
+26169,Branded to Kill (Koroshi no rakuin) (1967),Action|Crime|Drama,5.0,Action
+5244,Shogun Assassin (1980),Action|Adventure,5.0,Action
+6835,Alien Contamination (1980),Action|Horror|Sci-Fi,5.0,Action
+movieId,title,genres,rating,genre
+6818,Come and See (Idi i smotri) (1985),Drama|War,5.0,War
+122092,Guy X (2005),Comedy|War,5.0,War
+27704,Battle Royale 2: Requiem (Batoru rowaiaru II: Chinkonka) (2003),Action|Drama|Thriller|War,5.0,War
+26073,"Human Condition III, The (Ningen no joken III) (1961)",Drama|War,5.0,War
+2972,Red Sorghum (Hong gao liang) (1987),Drama|War,5.0,War
+64499,Che: Part One (2008),Drama|War,5.0,War
+64501,Che: Part Two (2008),Drama|War,5.0,War
+2075,Mephisto (1981),Drama|War,5.0,War
+70451,Max Manus (2008),Action|Drama|War,5.0,War
+69860,Eichmann (2007),Drama|War,5.0,War
+7122,King of Hearts (1966),Comedy|Drama|War,5.0,War
+140627,Battle For Sevastopol (2015),Drama|Romance|War,5.0,War
+126430,The Pacific (2010),Action|Adventure|Drama|War,4.75,War
+5915,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War,4.75,War
+43376,Sophie Scholl: The Final Days (Sophie Scholl - Die letzten Tage) (2005),Drama|War,4.625,War
+1178,Paths of Glory (1957),Drama|War,4.541666666666667,War
+3003,Train of Life (Train de vie) (1998),Comedy|Drama|Romance|War,4.5,War
+4338,Twelve O'Clock High (1949),Drama|War,4.5,War
+26122,Onibaba (1964),Drama|Horror|War,4.5,War
+4407,Salvador (1986),Drama|Thriller|War,4.5,War
+movieId,title,genres,rating,genre
+26073,"Human Condition III, The (Ningen no joken III) (1961)",Drama|War,5.0,Drama
+120138,PK (2014),Comedy|Drama|Fantasy|Mystery|Romance,5.0,Drama
+164367,The Girl with All the Gifts (2016),Drama|Horror|Sci-Fi|Thriller,5.0,Drama
+3567,Bossa Nova (2000),Comedy|Drama|Romance,5.0,Drama
+2969,"Man and a Woman, A (Un homme et une femme) (1966)",Drama|Romance,5.0,Drama
+7071,"Woman Under the Influence, A (1974)",Drama,5.0,Drama
+26587,"Decalogue, The (Dekalog) (1989)",Crime|Drama|Romance,5.0,Drama
+120130,Into the Forest of Fireflies' Light (2011),Animation|Drama|Fantasy,5.0,Drama
+165959,Alesha Popovich and Tugarin the Dragon (2004),Animation|Comedy|Drama,5.0,Drama
+25906,Mr. Skeffington (1944),Drama|Romance,5.0,Drama
+69860,Eichmann (2007),Drama|War,5.0,Drama
+5745,"Four Seasons, The (1981)",Comedy|Drama,5.0,Drama
+80124,Sisters (Syostry) (2001),Action|Crime|Drama,5.0,Drama
+27704,Battle Royale 2: Requiem (Batoru rowaiaru II: Chinkonka) (2003),Action|Drama|Thriller|War,5.0,Drama
+3951,Two Family House (2000),Drama,5.0,Drama
+6818,Come and See (Idi i smotri) (1985),Drama|War,5.0,Drama
+79897,Get Low (2009),Comedy|Drama|Mystery,5.0,Drama
+94810,Eva (2011),Drama|Fantasy|Sci-Fi,5.0,Drama
+70451,Max Manus (2008),Action|Drama|War,5.0,Drama
+27751,'Salem's Lot (2004),Drama|Horror|Mystery|Thriller,5.0,Drama
+movieId,title,genres,rating,genre
+94810,Eva (2011),Drama|Fantasy|Sci-Fi,5.0,Sci-Fi
+96832,Holy Motors (2012),Drama|Fantasy|Musical|Mystery|Sci-Fi,5.0,Sci-Fi
+6835,Alien Contamination (1980),Action|Horror|Sci-Fi,5.0,Sci-Fi
+5746,Galaxy of Terror (Quest) (1981),Action|Horror|Mystery|Sci-Fi,5.0,Sci-Fi
+172875,A Detective Story (2003),Animation|Sci-Fi,5.0,Sci-Fi
+3687,Light Years (Gandahar) (1988),Adventure|Animation|Fantasy|Sci-Fi,5.0,Sci-Fi
+124851,Delirium (2014),Adventure|Romance|Sci-Fi,5.0,Sci-Fi
+4454,More (1998),Animation|Drama|Sci-Fi|IMAX,5.0,Sci-Fi
+5468,20 Million Miles to Earth (1957),Sci-Fi,5.0,Sci-Fi
+96608,Runaway Brain (1995) ,Animation|Comedy|Sci-Fi,5.0,Sci-Fi
+158027,SORI: Voice from the Heart (2016),Drama|Sci-Fi,5.0,Sci-Fi
+26849,"Stand, The (1994)",Adventure|Drama|Fantasy|Horror|Sci-Fi,5.0,Sci-Fi
+104780,"Mystery of the Third Planet, The (Tayna tretey planety) (1981)",Adventure|Animation|Sci-Fi,5.0,Sci-Fi
+164367,The Girl with All the Gifts (2016),Drama|Horror|Sci-Fi|Thriller,5.0,Sci-Fi
+4813,When Worlds Collide (1951),Sci-Fi,5.0,Sci-Fi
+138632,Tokyo Tribe (2014),Action|Crime|Drama|Sci-Fi,5.0,Sci-Fi
+147376,Doctor Who: A Christmas Carol (2010),Sci-Fi,4.75,Sci-Fi
+174053,Black Mirror: White Christmas (2014),Drama|Horror|Mystery|Sci-Fi|Thriller,4.75,Sci-Fi
+106642,"Day of the Doctor, The (2013)",Adventure|Drama|Sci-Fi,4.571428571428571,Sci-Fi
+85736,BURN-E (2008),Adventure|Animation|Children|Sci-Fi,4.5,Sci-Fi
+movieId,title,genres,rating,genre
+3792,Duel in the Sun (1946),Drama|Romance|Western,5.0,Western
+128087,Trinity and Sartana Are Coming (1972),Comedy|Western,5.0,Western
+42556,7 Faces of Dr. Lao (1964),Fantasy|Mystery|Western,5.0,Western
+7614,Oklahoma! (1955),Musical|Romance|Western,4.5,Western
+157108,Texas - Doc Snyder hält die Welt in Atem (1993),Comedy|Western,4.5,Western
+78620,"Scalphunters, The (1968)",Comedy|Western,4.5,Western
+144976,Bone Tomahawk (2015),Horror|Western,4.5,Western
+82857,Sweetgrass (2009),Adventure|Documentary|Western,4.5,Western
+7218,"Ox-Bow Incident, The (1943)",Drama|Western,4.5,Western
+4406,"Man Who Shot Liberty Valance, The (1962)",Crime|Drama|Western,4.4,Western
+3727,Near Dark (1987),Horror|Western,4.3125,Western
+1209,Once Upon a Time in the West (C'era una volta il West) (1968),Action|Drama|Western,4.305555555555555,Western
+3074,Jeremiah Johnson (1972),Western,4.25,Western
+133802,Slow West (2015),Action|Thriller|Western,4.25,Western
+3508,"Outlaw Josey Wales, The (1976)",Action|Adventure|Drama|Thriller|Western,4.25,Western
+1283,High Noon (1952),Drama|Western,4.2105263157894735,Western
+2921,High Plains Drifter (1973),Western,4.181818181818182,Western
+800,Lone Star (1996),Drama|Mystery|Western,4.157894736842105,Western
+3681,For a Few Dollars More (Per qualche dollaro in più) (1965),Action|Drama|Thriller|Western,4.151515151515151,Western
+3037,Little Big Man (1970),Western,4.145833333333333,Western
+movieId,title,genres,rating,genre
+118894,Scooby-Doo! Abracadabra-Doo (2010),Animation|Children|Mystery,5.0,Children
+170777,There Once Was a Dog (1982),Animation|Children|Comedy,5.0,Children
+136359,Scooby-Doo Goes Hollywood (1979),Animation|Children|Comedy,5.0,Children
+136503,Tom and Jerry: Shiver Me Whiskers (2006),Animation|Children|Comedy,5.0,Children
+136556,Kung Fu Panda: Secrets of the Masters (2011),Animation|Children,5.0,Children
+136341,Scooby-Doo! and the Samurai Sword (2009),Animation|Children|Comedy,5.0,Children
+146684,Cosmic Scrat-tastrophe (2015),Animation|Children|Comedy,5.0,Children
+131098,Saving Santa (2013),Animation|Children|Comedy,5.0,Children
+150554,The Love Bug (1997),Adventure|Children|Comedy|Fantasy,5.0,Children
+156025,Ice Age: The Great Egg-Scapade (2016),Adventure|Animation|Children|Comedy,5.0,Children
+95311,Presto (2008),Animation|Children|Comedy|Fantasy,5.0,Children
+163072,Winnie Pooh (1969),Animation|Children,5.0,Children
+3086,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,5.0,Children
+91386,Happy Feet Two (2011),Animation|Children|Comedy|IMAX,5.0,Children
+166183,Junior and Karlson (1968),Adventure|Animation|Children,5.0,Children
+136353,Scooby-Doo! and the Loch Ness Monster (2004),Animation|Children|Comedy,5.0,Children
+91355,Asterix and the Vikings (Astérix et les Vikings) (2006),Adventure|Animation|Children|Comedy|Fantasy,5.0,Children
+173351,Wow! A Talking Fish! (1983),Animation|Children|Comedy|Fantasy,5.0,Children
+85295,Scooby-Doo! Curse of the Lake Monster (2010),Adventure|Children|Comedy|Mystery,5.0,Children
+121781,Stuart Little 3: Call of the Wild (2005),Animation|Children|Comedy|Fantasy,5.0,Children
+movieId,title,genres,rating,genre
+132333,Seve (2014),Documentary|Drama,5.0,Documentary
+6408,Animals are Beautiful People (1974),Comedy|Documentary,5.0,Documentary
+117531,Watermark (2014),Documentary,5.0,Documentary
+109687,Particle Fever (2013),Documentary,5.0,Documentary
+74226,"Dream of Light (a.k.a. Quince Tree Sun, The) (Sol del membrillo, El) (1992)",Documentary|Drama,5.0,Documentary
+1310,Hype! (1996),Documentary,5.0,Documentary
+134796,Bitter Lake (2015),Documentary,5.0,Documentary
+103602,Craig Ferguson: I'm Here To Help (2013),Comedy|Documentary,5.0,Documentary
+84273,Zeitgeist: Moving Forward (2011),Documentary,5.0,Documentary
+86237,Connections (1978),Documentary,5.0,Documentary
+167064,I Am Not Your Negro (2017),Documentary,5.0,Documentary
+44943,9/11 (2002),Documentary,5.0,Documentary
+26366,Harlan County U.S.A. (1976),Documentary,5.0,Documentary
+100556,"Act of Killing, The (2012)",Documentary,5.0,Documentary
+152711,Who Killed Chea Vichea? (2010),Documentary,5.0,Documentary
+5059,Little Dieter Needs to Fly (1997),Documentary,5.0,Documentary
+172705,Tickling Giants (2017),Documentary,5.0,Documentary
+86668,Louis Theroux: Law & Disorder (2008),Documentary,5.0,Documentary
+7096,Rivers and Tides (2001),Documentary,5.0,Documentary
+2824,On the Ropes (1999),Documentary|Drama,5.0,Documentary
+movieId,title,genres,rating,genre
+83969,Down Argentine Way (1940),Comedy|Drama|Romance,5.0,Comedy
+88448,Paper Birds (Pájaros de papel) (2010),Comedy|Drama,5.0,Comedy
+91355,Asterix and the Vikings (Astérix et les Vikings) (2006),Adventure|Animation|Children|Comedy|Fantasy,5.0,Comedy
+4116,Hollywood Shuffle (1987),Comedy,5.0,Comedy
+91386,Happy Feet Two (2011),Animation|Children|Comedy|IMAX,5.0,Comedy
+136503,Tom and Jerry: Shiver Me Whiskers (2006),Animation|Children|Comedy,5.0,Comedy
+136469,Larry David: Curb Your Enthusiasm (1999),Comedy,5.0,Comedy
+136447,George Carlin: You Are All Diseased (1999),Comedy,5.0,Comedy
+136445,George Carlin: Back in Town (1996),Comedy,5.0,Comedy
+136359,Scooby-Doo Goes Hollywood (1979),Animation|Children|Comedy,5.0,Comedy
+136355,Big Top Scooby-Doo! (2012),Animation|Children|Comedy,5.0,Comedy
+136353,Scooby-Doo! and the Loch Ness Monster (2004),Animation|Children|Comedy,5.0,Comedy
+136341,Scooby-Doo! and the Samurai Sword (2009),Animation|Children|Comedy,5.0,Comedy
+5745,"Four Seasons, The (1981)",Comedy|Drama,5.0,Comedy
+4135,"Monster Squad, The (1987)",Adventure|Comedy|Horror,5.0,Comedy
+134847,Ghost Graduation (2012),Comedy,5.0,Comedy
+467,Live Nude Girls (1995),Comedy,5.0,Comedy
+92494,Dylan Moran: Monster (2004),Comedy|Documentary,5.0,Comedy
+1151,Lesson Faust (1994),Animation|Comedy|Drama|Fantasy,5.0,Comedy
+134109,Radio Day (2008),Comedy,5.0,Comedy
+movieId,title,genres,rating,genre
+27704,Battle Royale 2: Requiem (Batoru rowaiaru II: Chinkonka) (2003),Action|Drama|Thriller|War,5.0,Thriller
+1631,"Assignment, The (1997)",Action|Thriller,5.0,Thriller
+27751,'Salem's Lot (2004),Drama|Horror|Mystery|Thriller,5.0,Thriller
+164367,The Girl with All the Gifts (2016),Drama|Horror|Sci-Fi|Thriller,5.0,Thriller
+53280,"Breed, The (2006)",Horror|Thriller,5.0,Thriller
+6086,"I, the Jury (1982)",Crime|Drama|Thriller,5.0,Thriller
+6021,"American Friend, The (Amerikanische Freund, Der) (1977)",Crime|Drama|Mystery|Thriller,5.0,Thriller
+496,What Happened Was... (1994),Comedy|Drama|Romance|Thriller,5.0,Thriller
+76091,Mother (Madeo) (2009),Crime|Drama|Mystery|Thriller,5.0,Thriller
+136850,Villain (1971),Crime|Drama|Thriller,5.0,Thriller
+100906,Maniac Cop 2 (1990),Action|Horror|Thriller,5.0,Thriller
+876,Supercop 2 (Project S) (Chao ji ji hua) (1993),Action|Comedy|Crime|Thriller,5.0,Thriller
+118270,Hellbenders (2012),Comedy|Horror|Thriller,5.0,Thriller
+5416,Cherish (2002),Comedy|Drama|Thriller,5.0,Thriller
+40412,Dead Man's Shoes (2004),Crime|Thriller,4.75,Thriller
+174053,Black Mirror: White Christmas (2014),Drama|Horror|Mystery|Sci-Fi|Thriller,4.75,Thriller
+4298,Rififi (Du rififi chez les hommes) (1955),Crime|Film-Noir|Thriller,4.75,Thriller
+31364,Memories of Murder (Salinui chueok) (2003),Crime|Drama|Mystery|Thriller,4.7,Thriller
+46855,Army of Shadows (L'armée des ombres) (1969),Action|Drama|Thriller|War,4.5,Thriller
+4956,"Stunt Man, The (1980)",Action|Adventure|Comedy|Drama|Romance|Thriller,4.5,Thriller
+movieId,title,genres,rating,genre
+172577,Last Year's Snow Was Falling (1983),Animation|Children|Comedy|Fantasy,5.0,Fantasy
+96935,My Left Eye Sees Ghosts (Ngo joh aan gin diy gwai) (2002),Comedy|Fantasy|Romance,5.0,Fantasy
+95843,Goodbye Charlie (1964),Comedy|Fantasy|Romance,5.0,Fantasy
+121781,Stuart Little 3: Call of the Wild (2005),Animation|Children|Comedy|Fantasy,5.0,Fantasy
+96430,"Odd Life of Timothy Green, The (2012)",Comedy|Drama|Fantasy,5.0,Fantasy
+26849,"Stand, The (1994)",Adventure|Drama|Fantasy|Horror|Sci-Fi,5.0,Fantasy
+96832,Holy Motors (2012),Drama|Fantasy|Musical|Mystery|Sci-Fi,5.0,Fantasy
+120138,PK (2014),Comedy|Drama|Fantasy|Mystery|Romance,5.0,Fantasy
+120130,Into the Forest of Fireflies' Light (2011),Animation|Drama|Fantasy,5.0,Fantasy
+172793,Vovka in the Kingdom of Far Far Away (1965),Adventure|Animation|Children|Fantasy,5.0,Fantasy
+150554,The Love Bug (1997),Adventure|Children|Comedy|Fantasy,5.0,Fantasy
+72692,Mickey's Once Upon a Christmas (1999),Animation|Comedy|Fantasy,5.0,Fantasy
+42556,7 Faces of Dr. Lao (1964),Fantasy|Mystery|Western,5.0,Fantasy
+112512,Colourful (Karafuru) (2010),Animation|Drama|Fantasy|Mystery,5.0,Fantasy
+102084,Justice League: Doom (2012) ,Action|Animation|Fantasy,5.0,Fantasy
+27320,"Nine Lives of Tomas Katz, The (2000)",Comedy|Drama|Fantasy,5.0,Fantasy
+108795,Wonder Woman (2009),Action|Adventure|Animation|Fantasy,5.0,Fantasy
+159811,The Bremen Town Musicians (1969),Animation|Drama|Fantasy,5.0,Fantasy
+173351,Wow! A Talking Fish! (1983),Animation|Children|Comedy|Fantasy,5.0,Fantasy
+91355,Asterix and the Vikings (Astérix et les Vikings) (2006),Adventure|Animation|Children|Comedy|Fantasy,5.0,Fantasy
